@@ -1,0 +1,27 @@
+Privacy Policy for i++
+
+Last updated: 15/10/2026
+
+Overview
+i++ is a tally counter app. We respect your privacy, and the app is designed to work without collecting any personal information about you.
+
+Information we collect
+We do not collect, store, or transmit any personal information. The records, counts, and history you create in the app are stored locally on your device and are not sent to us or to any third party.
+
+Data stored on your device
+Your records and their history stay on your device. If you delete the app, this data is removed with it. Because we don’t have access to it, we can’t recover it for you. If you back up your device with iCloud or iTunes, your app data may be included in that backup, which is governed by Apple’s privacy policy.
+
+Analytics and tracking
+The app does not use analytics, advertising, or tracking technologies, and does not share data with third parties.
+
+In-app purchases
+If you purchase the upgrade, the transaction is handled entirely by Apple. We do not receive or store your payment details. We are only told by Apple that the purchase was made, so that we can unlock the feature.
+
+Children’s privacy
+The app does not collect personal information from anyone, including children under 13.
+
+Changes to this policy
+We may update this policy from time to time. Any changes will be posted on this page with a new “Last updated” date.
+
+Contact us
+If you have questions about this policy, email us at framers_rams.3s@icloud.com
