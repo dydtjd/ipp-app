@@ -10,7 +10,7 @@ Your records and their history stay on your device. If you delete the app, this 
 
 The app does not use analytics, advertising, or tracking technologies, and does not share data with third parties.
 
-If you purchase the upgrade, the transaction is handled entirely by Apple. We do not receive or store your payment details; Apple simply confirms that the purchase was made so we can unlock the feature.”
+If you purchase the upgrade, the transaction is handled entirely by Apple. We do not receive or store your payment details; Apple simply confirms the purchase was made so we can unlock the feature.”
 
 The app does not collect personal information from anyone, including children under 13.
 
