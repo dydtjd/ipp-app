@@ -1,6 +1,6 @@
 i++ Support
 
-Need help or have feedback? Email us at [framers_rams.3s@icloud.com](mailto:framers_rams.3s@icloud.com). and we’ll get back to you within a few days.
+Need help or have feedback? Email us at [framers_rams.3s@icloud.com](mailto:framers_rams.3s@icloud.com), and we’ll get back to you within a few days.
 
 ## FAQ
 
